@@ -1,64 +1,49 @@
 # Hi, I'm Maksim.
 
-Currently building QA-focused portfolio projects while transitioning into software quality engineering.
-
 I'm transitioning into QA and Quality Engineering from operations management.
 
-My primary interests are system investigation, validation, API testing, SQL, and test automation.
+My primary interests are system investigation, API testing, SQL, and test automation. I enjoy decomposing complex systems into smaller verifiable components and validating them from both business and technical perspectives.
 
-I enjoy decomposing complex systems into smaller verifiable components and testing them from both business and technical perspectives. My focus is designing validation workflows that help verify actual system behavior, assess reliability, and provide actionable feedback on product quality.
-
-My current focus includes Python, QA automation, backend testing, and quality engineering practices.
+Currently building QA-focused portfolio projects while developing skills in Python, backend testing, automation, and quality engineering.
 
 ## From Operations to Quality Engineering
 
-Before moving into QA, I worked in operations management.
+Before moving into QA, I worked in operations management, focusing on process control, reporting, audits, scheduling, and problem investigation.
 
-My responsibilities included process control, documentation, audits, reporting, scheduling, workforce coordination, and problem investigation.
+As workflows became increasingly process-driven, I started building tools to automate repetitive tasks and creating validation mechanisms to verify their behavior.
 
-As operational responsibilities became increasingly repetitive and process-driven, I started building tools to support daily workflows and developing validation mechanisms to ensure those tools behaved as expected.
-
-Over time, automation reduced the amount of manual operational work required, allowing me to focus more on process orchestration, problem investigation, and system improvement.
-
-That naturally led me toward software quality assurance, test automation, API testing, and backend-oriented quality engineering.
+Over time, this shifted my focus from operational execution toward system investigation, automation, and quality assurance.
 
 ---
 
 ## Core Skills
 
-### Quality Assurance
+**QA & Testing**
 - Test Design
 - Exploratory Testing
 - Regression Testing
 - Bug Reporting
 
-### API & Backend Testing
+**API & Backend**
 - REST APIs
 - Postman
 - Request Validation
 - Response Validation
-- Test Scenario Design
 
-### Databases
+**Databases**
 - SQL
 - SQLite
 - MySQL
 
-### Validation & Analysis
-- Database Validation
-- Data Integrity Checks
-- Root Cause Analysis
-
-### Automation
+**Automation**
 - Python
 - Pytest
 - Requests
-- Test Framework Fundamentals
 
-### Tools
+**Tools**
 - Git
 - GitHub
-- Google Chrome DevTools
+- Chrome DevTools
 - Postman
 
 ---
