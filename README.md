@@ -85,18 +85,6 @@ Key areas:
 
 ---
 
-## Current Focus
-
-- QA Automation
-- API Testing
-- SQL
-- Python
-- Test Architecture
-- Backend Fundamentals
-- CI/CD Fundamentals
-
----
-
 ## Contacts
 
 - [GitHub](https://github.com/timofeev-qa)
