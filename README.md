@@ -1,16 +1,116 @@
-## Hi there 👋
+# Hi, I'm Maksim.
 
-<!--
-**timofeev-qa/timofeev-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building QA-focused portfolio projects while transitioning into software quality engineering.
 
-Here are some ideas to get you started:
+I'm a QA Engineer focused on Manual Testing and Automation transitioning from operations management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary interests are system investigation, validation, API testing, SQL, and test automation.
+
+I enjoy decomposing complex systems into smaller verifiable components and testing them from both business and technical perspectives. My focus is designing validation workflows that help verify actual system behavior, assess reliability, and provide actionable feedback on product quality.
+
+My current focus includes Python, QA automation, backend testing, and quality engineering practices.
+
+## From Operations to Quality Engineering
+
+Before moving into QA, I worked in operations management.
+
+My responsibilities included process control, documentation, audits, reporting, scheduling, workforce coordination, and problem investigation.
+
+As operational responsibilities became increasingly repetitive and process-driven, I started building tools to support daily workflows and developing validation mechanisms to ensure those tools behaved as expected.
+
+Over time, automation reduced the amount of manual operational work required, allowing me to focus more on process orchestration, problem investigation, and system improvement.
+
+That naturally led me toward software quality assurance, test automation, API testing, and backend-oriented quality engineering.
+
+---
+
+## Core Skills
+
+### Quality Assurance
+- Test Design
+- Exploratory Testing
+- Regression Testing
+- Bug Reporting
+
+### API & Backend Testing
+- REST APIs
+- Postman
+- Request Validation
+- Response Validation
+- Test Scenario Design
+
+### Databases
+- SQL
+- SQLite
+- MySQL
+
+### Validation & Analysis
+- Database Validation
+- Data Integrity Checks
+- Root Cause Analysis
+
+### Automation
+- Python
+- Pytest
+- Requests
+- Test Framework Fundamentals
+
+### Tools
+- Git
+- GitHub
+- Google Chrome DevTools
+- Postman
+
+---
+
+## Featured Projects
+
+### Automated Job Pipeline
+- [Repository](https://github.com/timofeev-qa/automated-job-pipeline)
+
+How I investigate and classify behavior in an unknown external system.
+
+The project simulates real-world quality engineering work:
+- API validation
+- workflow verification
+- business rule testing
+- automation architecture
+- documentation and reporting
+
+Key idea:
+Treat the application process as a system and validate its behavior through structured testing.
+
+---
+
+### SQLite QA Project
+- [Repository](https://github.com/timofeev-qa/sqlite-qa-project)
+
+How I validate business rules and data integrity in a known system.
+
+The goal is to design test scenarios, verify business rules, validate data consistency, and demonstrate systematic QA thinking around databases and backend logic.
+
+Key areas:
+- SQL validation
+- test design
+- business rule verification
+- database quality assurance
+
+---
+
+## Current Focus
+
+- QA Automation
+- API Testing
+- SQL
+- Python
+- Test Architecture
+- Backend Fundamentals
+- CI/CD Fundamentals
+
+---
+
+## Contacts
+
+- [GitHub](https://github.com/timofeev-qa)
+- [LinkedIn](https://www.linkedin.com/in/maksim-timofeev-qa/)
+- Email: timofeev.qa@outlook.com
