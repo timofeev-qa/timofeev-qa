@@ -2,7 +2,7 @@
 
 Currently building QA-focused portfolio projects while transitioning into software quality engineering.
 
-I'm a QA Engineer focused on Manual Testing and Automation transitioning from operations management.
+I'm transitioning into QA and Quality Engineering from operations management.
 
 My primary interests are system investigation, validation, API testing, SQL, and test automation.
 
@@ -68,15 +68,20 @@ That naturally led me toward software quality assurance, test automation, API te
 ### Automated Job Pipeline
 - [Repository](https://github.com/timofeev-qa/automated-job-pipeline)
 
-How I investigate and classify behavior in an unknown external system.
+How I investigate and validate behavior in external systems before building automation on top of them.
 
-The project simulates real-world quality engineering work:
-- API validation
-- business rule testing
-- documentation and reporting
+The project focuses on:
+
+- API testing
+- response classification
+- integration testing
+- business usability validation
+- external system investigation
+- documentation of findings
 
 Key idea:
-Treat the application process as a system and validate its behavior through structured testing.
+
+A successful HTTP response does not automatically mean the response is usable for business purposes. The project validates whether external job-board sources are stable and reliable enough to justify future automation efforts.
 
 ---
 
