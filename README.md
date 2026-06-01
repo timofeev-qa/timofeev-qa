@@ -83,7 +83,7 @@ Treat the application process as a system and validate its behavior through stru
 ---
 
 ### SQLite QA Project
-- [Repository](https://github.com/timofeev-qa/sqlite-qa-project)
+- [Repository](https://github.com/timofeev-qa/qa-sqlite-automation-project)
 
 How I validate business rules and data integrity in a known system.
 
