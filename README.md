@@ -72,9 +72,7 @@ How I investigate and classify behavior in an unknown external system.
 
 The project simulates real-world quality engineering work:
 - API validation
-- workflow verification
 - business rule testing
-- automation architecture
 - documentation and reporting
 
 Key idea:
