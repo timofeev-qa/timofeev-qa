@@ -24,10 +24,10 @@ Over time, this shifted my focus from operational execution toward system invest
 
 A QA-oriented investigation project focused on validating external job-board behavior before building automation on top of it.
 Key areas:
-• API testing
-• response classification
-• integration testing
-• source investigations
+- API testing
+- response classification
+- integration testing
+- source investigations
 
 Key idea:
 A successful HTTP response does not automatically mean a response is business-usable. The project evaluates whether external sources provide sufficiently predictable and reliable behavior to justify future automation efforts.
