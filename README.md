@@ -23,6 +23,7 @@ Over time, this shifted my focus from operational execution toward system invest
 > How I investigate and validate behavior in external systems before building automation on top of them.
 
 A QA-oriented investigation project focused on validating external job-board behavior before building automation on top of it.
+
 Key areas:
 - API testing
 - response classification
@@ -39,6 +40,7 @@ A successful HTTP response does not automatically mean a response is business-us
 > How I validate business rules and data integrity in a known system.
 
 The goal is to design test scenarios, verify business rules, validate data consistency, and demonstrate systematic QA thinking around databases and backend logic.
+
 Key areas:
 - SQL validation
 - test design
