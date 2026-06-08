@@ -13,6 +13,7 @@ Before moving into QA, I worked in operations management, focusing on process co
 As workflows became increasingly process-driven, I started building tools to automate repetitive tasks and creating validation mechanisms to verify their behavior.
 
 Over time, this shifted my focus from operational execution toward system investigation, automation, and quality assurance.
+
 ---
 
 ## Featured Projects
@@ -32,6 +33,7 @@ The project focuses on:
 
 Key idea:
 A successful HTTP response does not automatically mean a response is business-usable. The project evaluates whether external sources provide sufficiently predictable and reliable behavior to justify future automation efforts.
+
 ---
 
 ### SQLite QA Project
@@ -44,6 +46,7 @@ Key areas:
 - test design
 - business rule verification
 - database quality assurance
+
 ---
 
 ## Contacts:
