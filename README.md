@@ -1,55 +1,23 @@
-# Hi, I'm Maksim.
+# Data & Automation Specialist | From raw data to verified, actionable results
 
-I'm transitioning into QA and Quality Engineering from operations management.
+I build tools that collect, clean, and filter public data — automatically and in compliance with source policies.
 
-My primary interests are system investigation, API testing, SQL, and test automation. I enjoy analyzing complex systems, identifying uncertainty, and building structured validation processes that support evidence-based decisions.
+**What I bring:**
+- End-to-end automation: from raw, unstructured sources to a structured, deduplicated dataset.
+- Compliance-first approach: every source is vetted against its `robots.txt` and Terms of Service before use.
+- Transparent logic: every filtering decision is logged and auditable.
+- Adaptability: the same method applies to job listings, competitor prices, local files — any data that can be processed programmatically.
 
-Currently, I am developing QA-focused portfolio projects while strengthening my skills in Python, API testing, automation, and quality engineering.
+**Featured project: [Daily Digest](https://github.com/timofeev-qa/automated-job-pipeline)**
+A fully functional pipeline that processes thousands of public job listings daily, removes duplicates, applies configurable filters, and outputs a clean shortlist — while respecting every source’s legal boundaries.
+→ 8,259 raw listings → 19 relevant matches in 28 minutes, with zero policy violations.
 
-## From Operations to Quality Engineering
+**I’m currently open to freelance projects involving:**
+- Data collection, cleaning, and normalization
+- Building automated pipelines from public or local sources
+- Compliance review of scraping/automation workflows
+- Whether you need a quick fix or a full pipeline — we'll figure out the right approach.
 
-Before moving into QA, I worked in operations management, focusing on process control, reporting, audits, scheduling, and problem investigation.
-
-As workflows became increasingly process-driven, I started building tools to automate repetitive tasks and creating validation mechanisms to verify their behavior.
-
-Over time, this shifted my focus from operational execution toward system investigation, automation, and quality assurance.
-
----
-
-## Featured Projects
-
-### Automated Job Pipeline
-- [Repository](https://github.com/timofeev-qa/automated-job-pipeline)
-> How I investigate and validate behavior in external systems before building automation on top of them.
-
-A QA-oriented investigation project focused on validating external job-board behavior before building automation on top of it.
-
-Key areas:
-- API testing
-- response classification
-- integration testing
-- source investigations
-
-Key idea:
-A successful HTTP response does not automatically mean a response is business-usable. The project evaluates whether external sources provide sufficiently predictable and reliable behavior to justify future automation efforts.
-
----
-
-### SQLite QA Project
-- [Repository](https://github.com/timofeev-qa/qa-sqlite-automation-project)
-> How I validate business rules and data integrity in a known system.
-
-The goal is to design test scenarios, verify business rules, validate data consistency, and demonstrate systematic QA thinking around databases and backend logic.
-
-Key areas:
-- SQL validation
-- test design
-- business rule verification
-- database quality assurance
-
----
-
-## Contacts:
-- [GitHub](https://github.com/timofeev-qa)
-- [LinkedIn](https://www.linkedin.com/in/maksim-timofeev-qa/)
+**Contact:**
+- LinkedIn: [timofeev-qa](https://www.linkedin.com/in/maksim-timofeev-qa/)
 - Email: timofeev.qa@outlook.com
