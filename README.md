@@ -8,7 +8,7 @@ I build tools that collect, clean, and filter public data — automatically and 
 - Transparent logic: every filtering decision is logged and auditable.
 - Adaptability: the same method applies to job listings, competitor prices, local files — any data that can be processed programmatically.
 
-**Featured project: [Daily Digest](https://github.com/timofeev-qa/automated-job-pipeline)**
+**Featured project: [Daily Digest](https://github.com/timofeev-qa/daily-digest)**
 A fully functional pipeline that processes thousands of public job listings daily, removes duplicates, applies configurable filters, and outputs a clean shortlist — while respecting every source’s legal boundaries.
 → 8,259 raw listings → 19 relevant matches in 28 minutes, with zero policy violations.
 
